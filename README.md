@@ -1,5 +1,5 @@
 
-[![MasterHead] (https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
+[![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
 <h1 align="center">Hi 👋, I'm Yair Gabay</h1>
 <h3 align="center">I'm a passionate FullStack Developer from Israel, and I'm looking for my next challenge in Frontend / Fullstack development positions.</h3>
 <img align="right alt="Coding width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
